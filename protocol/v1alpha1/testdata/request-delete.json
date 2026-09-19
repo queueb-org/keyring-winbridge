@@ -1,0 +1,7 @@
+{
+  "protocol": "keyring-winbridge/v1alpha1",
+  "request_id": "request-delete",
+  "operation": "delete",
+  "service": "example-application",
+  "account": "api-token"
+}

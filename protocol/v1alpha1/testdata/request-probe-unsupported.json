@@ -1,0 +1,5 @@
+{
+  "protocol": "keyring-winbridge/v2",
+  "request_id": "request-probe-unsupported",
+  "operation": "probe"
+}

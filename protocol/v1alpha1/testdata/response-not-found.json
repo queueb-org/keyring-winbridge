@@ -1,0 +1,10 @@
+{
+  "protocol": "keyring-winbridge/v1alpha1",
+  "request_id": "request-get",
+  "ok": false,
+  "error": {
+    "code": "not_found",
+    "message": "credential was not found",
+    "retryable": false
+  }
+}

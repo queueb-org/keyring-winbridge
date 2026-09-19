@@ -1,0 +1,8 @@
+{
+  "protocol": "keyring-winbridge/v1alpha1",
+  "request_id": "request-set",
+  "operation": "set",
+  "service": "example-application",
+  "account": "api-token",
+  "secret_b64": "c2VjcmV0"
+}

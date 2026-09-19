@@ -1,0 +1,11 @@
+{
+  "protocol": "keyring-winbridge/v2",
+  "request_id": "request-probe-unsupported",
+  "ok": false,
+  "error": {
+    "code": "unsupported_protocol",
+    "message": "unsupported protocol",
+    "retryable": false,
+    "supported_protocols": ["keyring-winbridge/v1alpha1"]
+  }
+}

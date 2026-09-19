@@ -1,0 +1,6 @@
+{
+  "protocol": "keyring-winbridge/v1alpha1",
+  "request_id": "request-set",
+  "ok": true,
+  "result": {}
+}

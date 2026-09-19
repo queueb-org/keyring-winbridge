@@ -1,0 +1,10 @@
+{
+  "protocol": "keyring-winbridge/v1alpha1",
+  "request_id": "request-probe",
+  "ok": true,
+  "result": {
+    "helper_version": "0.1.0",
+    "supported_protocols": ["keyring-winbridge/v1alpha1"],
+    "backend": "windows-credential-manager"
+  }
+}

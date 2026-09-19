@@ -1,0 +1,8 @@
+{
+  "protocol": "keyring-winbridge/v1alpha1",
+  "request_id": "request-get",
+  "ok": true,
+  "result": {
+    "secret_b64": "c2VjcmV0"
+  }
+}
